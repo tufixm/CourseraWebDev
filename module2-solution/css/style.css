@@ -12,14 +12,15 @@ h2.section-title {
 	display: inline-block;
 	position: absolute;
 	right: 0px;
-	border-left: 1px solid black;
-	border-bottom: 1px solid black;
+	top: 12px;
+	border: 1px solid black;
+	border-right: 0px;
 	margin-top: 0px;
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-top: 3px;
 	padding-bottom: 3px;
-	font-size: 1em;
+	font-size: 1.25em;
 	font-family: Helvetica, Georgia, Serif;
 }
 
@@ -28,6 +29,7 @@ h2.section-title {
 	background-color: #b3c4d5;
 	border: 1px solid black;
 	position: relative;
+	padding: 20px;
 }
 
 .section > p {
